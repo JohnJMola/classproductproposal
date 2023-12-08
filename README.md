@@ -1,4 +1,1 @@
-Graphing calculator v1.0
-This is my class product proposal for Intro to Computer Science CPSC-20000
-I grant permission for anyone to modify this file
-contact info: johnjmola@lewisu.edu
+This is John's Graphing Calculator version 1.0. The intention of this project was to create a calculator that can both solve equations, and graph. however, I only implemented the graph part. I grant anyone permission to modify this project. contact: johnjmola@lewisu.edu
